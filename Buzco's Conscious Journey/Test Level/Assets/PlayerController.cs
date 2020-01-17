@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     float speed = 4;
-    float rotSpeed = 80 * 12;
+    float rotSpeed = 80 * 8;
     float rot = 0f;
     float gravity = 8;
 
