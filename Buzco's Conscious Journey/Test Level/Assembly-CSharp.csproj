@@ -76,31 +76,31 @@
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>E:/Buzco's Conscious Journey/Buzco's Conscious Journey/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/Buzco's Conscious Journey/Buzco's Conscious Journey/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/Buzco's Conscious Journey/Buzco's Conscious Journey/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/Buzco's Conscious Journey/Buzco's Conscious Journey/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>E:/Buzco's Conscious Journey/Buzco's Conscious Journey/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/Buzco's Conscious Journey/Buzco's Conscious Journey/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/Buzco's Conscious Journey/Buzco's Conscious Journey/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>E:/Buzco's Conscious Journey/Buzco's Conscious Journey/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.CollabProxy.Editor">
+      <HintPath>E:/Buzco's Conscious Journey/Buzco's Conscious Journey/Team-Leap/Buzco's Conscious Journey/Test Level/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
