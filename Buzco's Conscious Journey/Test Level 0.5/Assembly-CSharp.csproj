@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2BE436D2-9076-DC1A-224C-EAD2BFA246DA}</ProjectGuid>
+    <ProjectGuid>{80E658F5-9003-8ECD-7C2E-6B32C4265924}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -65,31 +65,31 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/gamesplusjames' Tutorial/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level 0.5/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/gamesplusjames' Tutorial/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level 0.5/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/gamesplusjames' Tutorial/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level 0.5/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/gamesplusjames' Tutorial/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level 0.5/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/gamesplusjames' Tutorial/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level 0.5/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/gamesplusjames' Tutorial/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level 0.5/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/gamesplusjames' Tutorial/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level 0.5/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/gamesplusjames' Tutorial/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level 0.5/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/gamesplusjames' Tutorial/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/User/Documents/GitHub/Team-Leap/Buzco's Conscious Journey/Test Level 0.5/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
